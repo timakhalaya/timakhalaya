@@ -1,7 +1,8 @@
 ### Hej 😊
-My name is Tim , I'm a GCP Certified Full stack developer.
-Connect with me over @ linkedIn - https://www.linkedin.com/in/timur-akhalaya-2a630b5b/ 
-- 📫 Can be reached @: tim.akhalaya@gmail.com
+My name is Tim , I'm a GCP Certified Full stack developer <br />
+Connect with me over @ linkedIn - https://www.linkedin.com/in/timur-akhalaya-2a630b5b/ <br />
+📫 I Can be reached @: tim.akhalaya@gmail.com
+🏙 Sweden, Helsingborg 
 
 
 

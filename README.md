@@ -1,5 +1,5 @@
 ### Hej 😊
-My name is Tim , I'm a GCP Certified Full stack developer <br />
+My name is Tim , I'm a GCP Certified Technical Lead <br />
 📫 I Can be reached @: tim.akhalaya@gmail.com <br />
 
 
